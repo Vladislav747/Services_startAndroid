@@ -29,4 +29,11 @@
         android:layout_gravity="center_vertical"
         android:layout_marginLeft="10dp"
         android:text="Service_93" />
+    <Button
+        android:id="@+id/btnService_94"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_marginLeft="10dp"
+        android:text="Service_94" />
 </LinearLayout>
