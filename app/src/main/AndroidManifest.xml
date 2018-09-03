@@ -17,7 +17,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".Service92"/>
-        <activity android:name=".Service93"/>
+        <activity android:name=".Service93_1"/>
         <activity android:name=".Service94"/>
     </application>
 

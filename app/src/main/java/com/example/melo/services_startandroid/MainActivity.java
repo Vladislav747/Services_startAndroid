@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 startActivity(intent);
                 break;
             case R.id.btnService_93:
-                intent = new Intent(this, Service93.class);
+                intent = new Intent(this, Service93_1.class);
                 startActivity(intent);
                 break;
             case R.id.btnService_94:
